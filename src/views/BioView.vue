@@ -12,8 +12,8 @@
         </div>
         </div>
         <div class="p">
-                    <p><b>Nama, Bio data singkat</b> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet dolores doloribus vel? Placeat porro similique tenetur illo. Quasi neque eum voluptate ab a repellendus soluta fuga tempora blanditiis molestiae? Assumenda.</p>
-            <p><b>Motivasi masuk rus dan rpl</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, ut earum. Nemo placeat iste esse neque ullam inventore illo, nam similique quod adipisci cupiditate autem eaque distinctio atque, nostrum iure?</p>
+                    <p><b>Cita</b>Calista Azzahira Rusdy, biasa dipanggil cita. lahir di tangerang tapi jadi orang tangsel. </p>
+            <p><b>Motivasi masuk rus dan rpl</b>masuk rus karena ada temen, masuk rpl karena bisa gambar tapi gamu masuk animasi 2d</p>
         </div>
     </div>
 </template>
